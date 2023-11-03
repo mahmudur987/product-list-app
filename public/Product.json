@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Mens Fashion",
+      "image": "https://images.unsplash.com/photo-1519743670471-034311358429?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Men's Casual Shirt",
+      "description": "Comfortable and stylish casual shirt for men.",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "category": "Mens Fashion",
+      "image": "https://images.unsplash.com/photo-1514311548104-ae305aac4688?auto=format&fit=crop&q=80&w=764&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Men's Denim Jeans",
+      "description": "Classic denim jeans for a trendy look.",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "category": "Mens Fashion",
+      "image": "https://images.unsplash.com/photo-1641893843833-a006778dc00b?auto=format&fit=crop&q=80&w=846&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Men's Leather Shoes",
+      "description": "Genuine leather shoes for a formal occasion.",
+      "price": 59.99
+    },
+    {
+      "id": 4,
+      "category": "Mens Fashion",
+      "image": "https://images.unsplash.com/photo-1520975867597-0af37a22e31e?auto=format&fit=crop&q=80&w=774&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Men's Sports Jacket",
+      "description": "Lightweight and breathable jacket for sports enthusiasts.",
+      "price": 49.99
+    },
+    {
+      "id": 5,
+      "category": "Mens Fashion",
+      "image": "https://images.unsplash.com/photo-1573261821759-fdd1b36d9ca5?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Men's Watch",
+      "description": "Elegant wristwatch for men.",
+      "price": 79.99
+    },
+    {
+      "id": 6,
+      "category": "Mens Fashion",
+      "image": "https://images.unsplash.com/photo-1686605972946-ec3d971f93ce?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Men's Backpack",
+      "description": "Spacious backpack with multiple compartments.",
+      "price": 34.99
+    },
+    {
+      "id": 7,
+      "category": "Mens Fashion",
+      "image": "https://images.unsplash.com/photo-1590526599411-42bcd63d50fe?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Men's Sunglasses",
+      "description": "Stylish sunglasses to complete your look.",
+      "price": 19.99
+    },
+    {
+      "id": 8,
+      "category": "Womens Fashion",
+      "image": "https://images.unsplash.com/photo-1519554318711-aaf73ece6ff9?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Women's Summer Dress",
+      "description": "Light and flowy dress for summer days.",
+      "price": 39.99
+    },
+    {
+      "id": 9,
+      "category": "Womens Fashion",
+      "image": "https://plus.unsplash.com/premium_photo-1661775566620-c8d785b32958?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Women's High Heels",
+      "description": "Classic high heels for a sophisticated look.",
+      "price": 49.99
+    },
+    {
+      "id": 10,
+      "category": "Womens Fashion",
+      "image": "https://images.unsplash.com/photo-1680770733998-dd4b09866450?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Women's Handbag",
+      "description": "Chic handbag with ample space for essentials.",
+      "price": 29.99
+    },
+    {
+      "id": 11,
+      "category": "Womens Fashion",
+      "image": "https://images.unsplash.com/photo-1674555201959-58ae7b2d7731?auto=format&fit=crop&q=80&w=1014&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Women's Jewelry Set",
+      "description": "Elegant jewelry set for special occasions.",
+      "price": 69.99
+    },
+    {
+      "id": 12,
+      "category": "Womens Fashion",
+      "image": "https://images.unsplash.com/photo-1595909315417-2edd382a56dc?auto=format&fit=crop&q=80&w=880&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Women's Activewear",
+      "description": "Comfortable activewear for workouts.",
+      "price": 45.99
+    },
+    {
+      "id": 13,
+      "category": "Womens Fashion",
+      "image": "https://images.unsplash.com/photo-1636576507919-929955a345c8?auto=format&fit=crop&q=80&w=774&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Women's Scarf",
+      "description": "Soft and stylish scarf for all seasons.",
+      "price": 19.99
+    },
+    {
+      "id": 14,
+      "category": "Womens Fashion",
+      "image": "https://images.unsplash.com/photo-1547194444-a435dc9fc2aa?auto=format&fit=crop&q=80&w=767&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Women's Sunglasses",
+      "description": "Trendy sunglasses to protect your eyes.",
+      "price": 24.99
+    },
+    {
+      "id": 15,
+      "category": "Home Appliances",
+      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&q=80&w=757&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Smart TV",
+      "description": "High-definition smart TV with internet connectivity.",
+      "price": 599.99
+    },
+    {
+      "id": 16,
+      "category": "Home Appliances",
+      "image": "https://images.unsplash.com/photo-1630459065645-549fe5a56db4?auto=format&fit=crop&q=80&w=774&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Refrigerator",
+      "description": "Energy-efficient refrigerator with ample storage.",
+      "price": 799.99
+    },
+    {
+      "id": 17,
+      "category": "Home Appliances",
+      "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&q=80&w=871&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Washing Machine",
+      "description": "Front-loading washing machine for easy laundry.",
+      "price": 449.99
+    },
+    {
+      "id": 18,
+      "category": "Home Appliances",
+      "image": "https://images.unsplash.com/photo-1617713780979-4ae0c726f253?auto=format&fit=crop&q=80&w=774&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Microwave Oven",
+      "description": "Microwave oven with multiple cooking options.",
+      "price": 129.99
+    },
+    {
+      "id": 19,
+      "category": "Home Appliances",
+      "image": "https://images.unsplash.com/photo-1458060390477-1b8bc1cfe017?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Coffee Maker",
+      "description": "Coffee maker for brewing your favorite beverages.",
+      "price": 79.99
+    },
+    {
+      "id": 20,
+      "category": "Home Appliances",
+      "image": "https://plus.unsplash.com/premium_photo-1681824939699-ff7154f01136?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Vacuum Cleaner",
+      "description": "Powerful vacuum cleaner for efficient cleaning.",
+      "price": 149.99
+    },
+    {
+      "id": 21,
+      "category": "Home Appliances",
+      "image": "https://images.unsplash.com/photo-1436473849883-bb3464c23e93?auto=format&fit=crop&q=80&w=870&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Air Purifier",
+      "description": "Air purifier for clean and fresh indoor air.",
+      "price": 89.99
+    }
+  ]
+}
