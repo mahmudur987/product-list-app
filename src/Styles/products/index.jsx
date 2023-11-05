@@ -30,11 +30,22 @@ export const ProductHEading = styled.div`
   font-size: 30px;
   font-weight: 700;
   margin: 30px;
-  color: rebeccapurple;
+
   background-color: aqua;
   padding: 10px;
-
   border-radius: 30px;
+  @keyframes colorChange {
+    0% {
+      color: rebeccapurple; /* Start with black color */
+    }
+    50% {
+      color: red; /* Midpoint with red color */
+    }
+    100% {
+      color: black; /* End back to black color */
+    }
+  }
+  animation: colorChange 3s infinite linear;
 `;
 
 export const CardContainer = styled.div`
@@ -74,6 +85,18 @@ export const ProductPrice = styled.p`
   color: #007bff;
   font-weight: bold;
   margin-top: 10px;
+  @keyframes colorChange {
+    0% {
+      color: #007bff; /* Start with black color */
+    }
+    50% {
+      color: yellowgreen; /* Midpoint with red color */
+    }
+    100% {
+      color: black; /* End back to black color */
+    }
+  }
+  animation: colorChange 10s infinite linear;
 `;
 
 export const SeeAllButton = styled(Link)`
